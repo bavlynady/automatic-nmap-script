@@ -1,6 +1,6 @@
 hii automatic nmap enumeration script tool v1 is a tool which helps you to bypass enumeration phase in ejptv2 
 
-
+there will be a new version soon keep following us on LinkedIn 
 
 usage:
 1- chmod +x nmapscript.sh.x
