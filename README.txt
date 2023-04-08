@@ -2,6 +2,8 @@ hii automatic nmap enumeration script tool v1 is a tool which helps you to bypas
 
 there will be a new version soon keep following us on LinkedIn 
 
+we are not responsible for any wrong usage for this tool
+
 usage:
 1- chmod +x nmapscript.sh.x
 2- ./nmapscript.sh.x <ip>
