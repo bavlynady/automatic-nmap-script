@@ -5,7 +5,9 @@ there will be a new version soon keep following us on LinkedIn
 we are not responsible for any wrong usage for this tool
 
 usage:
-1- python3 python.py <ip>
+1- put pyarmor_runtime.so and __init__ inside pyarmor_runtime_000000
+
+2-python3 python.py <ip>
 
 example: python3 python.py 127.0.0.1
 
